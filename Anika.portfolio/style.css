@@ -45,6 +45,7 @@ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 .about.reveal.active{
     opacity: 1;
     transform: translate(0px);
+    font-size: 3vw;
     
 
 }
